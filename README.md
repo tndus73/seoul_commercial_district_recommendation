@@ -1,1 +1,1 @@
-# seoul_commercial_district_recommendation
+# 서울시 상권 & 고객 분석 서비스
